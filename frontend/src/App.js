@@ -6,6 +6,7 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import MyNotes from "./screens/MyNotes/MyNotes";
 
 
+
 const App = () => (
   <BrowserRouter>
     <Header />
